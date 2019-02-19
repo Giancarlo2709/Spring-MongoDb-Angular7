@@ -11,6 +11,7 @@ Levantar Frontend
 1.- descomprimir archivo spring-mongodb-frontend
 1.- abrir consola cmd y ubicarse en la ruta del proyecto spring-mondodb
 3.- ejecutar -> npm install
+4.- ejecutar -> npm install bootstrap jquery popper
 4.- ejecutar -> ng serve
 
 entrar al browser y ejecutar http://localhost:4200
